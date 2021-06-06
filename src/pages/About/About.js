@@ -1,4 +1,4 @@
-import mikeImage from "../../assets/images/Corbin.jpg";
+import myImage from "../../assets/images/Corbin.jpg";
 import "./style.css";
 
 function About() {
@@ -9,11 +9,11 @@ function About() {
                     <h2>About</h2>
                 </div>
                 <div className="card-body">
-                    <img src={mikeImage} className="card-img-top about-me-img" alt="Mike in San Diego."></img>
-                    <p className="card-text about-me-text">Full stack web developer and educationally motivated paraeducator. 
-                    Received certificate in full stack web development from the University of Washington Coding Boot Camp. 
-                    Collaborative, industrious team member with a knack for problem solving. 
-                    Personal interests in video and table-top gaming, performance, and other creative enterprises. </p>
+                    <img src={myImage} className="card-img-top about-me-img" alt="Corbin in Seattle"></img>
+                    <p className="card-text about-me-text">Full stack web developer and educationally motivated, i love learning about new things. 
+                    i have Received certificate in full stack web development from the University of Washington Coding Boot Camp. 
+                    Collaborative, industrious and a team player and i love a optimizing and problem solving. 
+                    Personal interests in video gamins, Blacksmithing, and ocational creative writing. </p>
                     <p>Technologies I've used recently include:</p>
                     <ul className="techList">
                         <li className="techListItem">HTML5</li>
