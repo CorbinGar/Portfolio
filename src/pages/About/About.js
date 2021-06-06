@@ -1,4 +1,4 @@
-import mikeImage from "../../assets/images/Mike.jpg";
+import mikeImage from "../../assets/images/Corbin.jpg";
 import "./style.css";
 
 function About() {
