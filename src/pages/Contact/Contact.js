@@ -8,19 +8,19 @@ function Contact() {
                 <h2>Contact</h2>
             </div>
             <div>
-            <h5 className="card-body contactSubheading">Feel free to send me an email at CorbinGar@gmail.com.</h5>
+            <h1 className="card-body contactSubheading">Feel free to send me an email at CorbinGar@gmail.com.</h1>
             </div>
             <div className="row iconRow">
                 <div className="card col-6 iconCard">
-                    <a href="https://www.linkedin.com/in/mike-coletta/" target="_blank" rel="noreferrer"><span
+                    <a href="https://www.linkedin.com/in/CorbinGar/" target="_blank" rel="noreferrer"><span
                             className="fa fa-linkedin fa-5x"></span></a>
                 </div>
                 <div className="card col-6 iconCard">
-                    <a href="https://github.com/MikeColetta" target="_blank" rel="noreferrer"><span
+                        <a href="https://github.com/CorbinGar" target="_blank" rel="noreferrer"><span
                             className="fa fa-github githubContactLink fa-5x"></span></a>
                 </div>
                 <div className="card col-6 iconCard">
-                    <a href="mailto:coletta.mike@gmail.com" target="_blank" rel="noreferrer"><span
+                    <a href="mailto:CorbinGar@gmail.com" target="_blank" rel="noreferrer"><span
                             className="fa fa-envelope-o fa-5x"></span></a>
                 </div>
                 <div className="card col-6 iconCard">
