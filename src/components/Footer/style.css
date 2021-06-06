@@ -8,7 +8,7 @@
     bottom: 0;
     width: 100%;
     line-height: 30px;
-    background-color: #0A122A;
+    background-color: rgb(30, 30, 30);
     text-align: center;
   }
 
@@ -20,17 +20,3 @@
     text-decoration: none;
 }
 
-.fa-facebook {
-    background: #3B5998;
-    color: white;
-}
-  
-.fa-twitter {
-    background: #55ACEE;
-    color: white;
-}
-
-.fa-instagram {
-    background: #125688;
-    color: white;
-}

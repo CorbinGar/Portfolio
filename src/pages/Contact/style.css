@@ -22,13 +22,13 @@
 
 .fa-linkedin {
     background-color:rgb(20, 20, 20);
-    color: white;
+    color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
 }
 
 .githubContactLink {
-    color:white;
+    color:rgb(255, 150, 0);
     background-color: rgb(30, 30, 30);
     width: 100px;
     height: 100px;
@@ -36,20 +36,20 @@
 
 .fa-envelope-o {
     background-color:rgb(30, 30, 30);
-    color: white;
+    color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
 }
 
 .fa-phone {
     background-color:rgb(30, 30, 30);
-    color: white;
+    color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
 }
 
 .fa-link {
-    color: white;
+    color: rgb(255, 150, 0);
 }
 
 .resumeLink {
