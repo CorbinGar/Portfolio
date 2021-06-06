@@ -38,7 +38,10 @@ const portfolioProjects = [
         tech: "IndexedDB, MongoDB, Javascript, Express",
         link: "https://boiling-savannah-28129.herokuapp.com",
         github: "https://github.com/rsowald/GrammaGram"
-    },
+    }
+]
+
+const portfolioProjects2 = [
     {
         title: "Daily Scheduler",
         img: Schedule,
@@ -77,3 +80,4 @@ const portfolioProjects = [
 ]
 
 export default portfolioProjects;
+export default portfolioProjects2;

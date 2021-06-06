@@ -9,13 +9,13 @@ function Navbar() {
 
 
                 <div class="row">
-                    <div class="col-4"> <button><h2 className="navbar-name">Corbin Garner</h2></button></div>
+                    <div class="col-4"><h2> Corbin Garner</h2></div>
     
             
                     <div class="col-2"> <Link to="/about" className="navlink">About</Link></div>
                     <div class="col-2"> <Link to="/portfolio" className="navlink">Portfolio</Link></div>
                     <div class="col-2">   <Link to="/experience" className="navlink">Experience</Link></div>
-                    <div class="col2">  <Link to="/contact" className="navlink">Contact</Link> </div >
+                    <div class="col-2">  <Link to="/contact" className="navlink">Contact</Link> </div >
 
                 </div >
 </div>

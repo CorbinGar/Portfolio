@@ -5,7 +5,7 @@ function Experience() {
     return (
         <div className="container my-2" id="experience">
             <div className="card cardStyle">
-                <h1 className="card-header">Experience</h1>
+                <h2 className="card-header">Experience</h2>
                 <div className="card-body">
                     <h1 className="card-title">Coding Boot Camp Certificate</h1>
                     <h1 className="card-subtitle mb-2">University of Washington</h1>
