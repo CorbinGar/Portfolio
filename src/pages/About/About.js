@@ -10,7 +10,7 @@ function About() {
                 </div>
                 <div className="card-body">
                     <img src={myImage} className="card-img-top about-me-img" alt="Corbin in Seattle"></img>
-                    <h1 className="card-text about-me-text">
+                    <h1 className="card-text about-me-text"></h1>
                         <h1> Full stack web developer and educationally motivated, i love learning about new things. 
                         i have Received certificate in full stack web development from the University of Washington Coding Boot Camp. 
                         Collaborative, industrious and a team player and i love a optimizing and problem solving. 
