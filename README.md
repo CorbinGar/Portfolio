@@ -16,18 +16,12 @@ i created a responsive portfolio of my favorite projects, using react.js
 ## Installation
 [Deployed Link](https://CorbinGar.github.io/React-Portfolio/)
 
-## Usage
-
-![Screenshot 1](./src/assets/images/Screenshot1.JPG)
-![Screenshot 2](./src/assets/images/Screenshot2.JPG)
-![Screenshot 3](./src/assets/images/Screenshot3.JPG)
-![Screenshot 4](./src/assets/images/Screenshot4.JPG)
 
 ## License
     
 MIT License
     
-Copyright (c) 2021 Mike Coletta
+Copyright (c) 2021 Corbin Garner
           
 ## Questions?
     
