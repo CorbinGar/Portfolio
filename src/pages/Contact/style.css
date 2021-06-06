@@ -14,14 +14,14 @@
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: #363636;;
+    background-color: rgb(30, 30, 30);
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
 }
 
 .fa-linkedin {
-    background-color:#2e2e2e;;
+    background-color:rgb(30, 30, 30);
     color: white;
     width: 100px;
     height: 100px;
@@ -29,13 +29,13 @@
 
 .githubContactLink {
     color:white;
-    background-color: #2c2c2c;;
+    background-color: rgb(30, 30, 30);
     width: 100px;
     height: 100px;
 }
 
 .fa-envelope-o {
-    background-color:#333333;;
+    background-color:rgb(30, 30, 30);
     color: white;
     width: 100px;
     height: 100px;
