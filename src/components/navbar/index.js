@@ -5,11 +5,11 @@ import "./style.css";
 function Navbar() {
     return (
 <nav className="navbar navbar-dark sticky-top navbar-expand-md">
-            <div className="container-fluid">
+            
 
 
                 <div class="row">
-                    <div class="col-4"><h2> Corbin Garner</h2></div>
+                    <div class="col-4"><h3> Corbin Garner</h3></div>
     
             
                     <div class="col-2"> <Link to="/about" className="navlink">About</Link></div>
@@ -18,7 +18,7 @@ function Navbar() {
                     <div class="col-2">  <Link to="/contact" className="navlink">Contact</Link> </div >
 
                 </div >
-</div>
+
 </nav>
     )
 }
