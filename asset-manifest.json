@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b0cd876d.chunk.css",
+    "main.css": "/Portfolio/static/css/main.6c684e35.chunk.css",
     "main.js": "/Portfolio/static/js/main.ef2958ee.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.ef2958ee.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.afd53f62.js",
@@ -10,7 +10,7 @@
     "static/js/3.3e512331.chunk.js": "/Portfolio/static/js/3.3e512331.chunk.js",
     "static/js/3.3e512331.chunk.js.map": "/Portfolio/static/js/3.3e512331.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.b0cd876d.chunk.css.map": "/Portfolio/static/css/main.b0cd876d.chunk.css.map",
+    "static/css/main.6c684e35.chunk.css.map": "/Portfolio/static/css/main.6c684e35.chunk.css.map",
     "static/js/2.3536d5e8.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3536d5e8.chunk.js.LICENSE.txt",
     "static/media/Corbin.9a14219f.jpg": "/Portfolio/static/media/Corbin.9a14219f.jpg",
     "static/media/CorbinGarnerResume.bf490c26.pdf": "/Portfolio/static/media/CorbinGarnerResume.bf490c26.pdf",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.afd53f62.js",
     "static/js/2.3536d5e8.chunk.js",
-    "static/css/main.b0cd876d.chunk.css",
+    "static/css/main.6c684e35.chunk.css",
     "static/js/main.ef2958ee.chunk.js"
   ]
 }
