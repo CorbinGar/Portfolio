@@ -12,11 +12,11 @@ function Navbar() {
                 <div class="col-6"><h3> Corbin Garner</h3></div>
   
             
-                <div class="col-6">
-                    <Link to="/about" className="navlink">About</Link>
+                <div class="col-12">
+                <Link to="/about" className="navlink">About</Link>
                 <Link to="/portfolio" className="navlink">Portfolio</Link>
-                 <Link to="/experience" className="navlink">Experience</Link>
-                    <Link to="/contact" className="navlink">Contact</Link>
+                <Link to="/experience" className="navlink">Experience</Link>
+                <Link to="/contact" className="navlink">Contact</Link>
                 </div>
 
                 
