@@ -6,6 +6,28 @@ body {
   color: whitesmoke;
 }
 
+body {
+  background-color: #222222;
+  background-size: 640px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+p {
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
 code {
   font-family: 'Times New Roman', Times, serif;
  
