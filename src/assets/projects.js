@@ -1,5 +1,5 @@
 import gramagram from "./images/Gramagram.png";
-import Schedule from "./imagesSchedule.png";
+import Schedule from "./images/Schedule.png";
 import FitnessTracker from "./images/FitnessTracker.png";
 import weatherDashboard from "./images/weather-dashboard.png";
 import employeeDirectory from "./images/EmployeeTracker.png";

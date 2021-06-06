@@ -1,5 +1,5 @@
 import "./style.css";
-import resumePdf from "../../assets/CorbinGarnerResume.pdf"
+import resumePdf from "./CorbinGarnerResume.pdf"
 
 function Experience() {
     return (
