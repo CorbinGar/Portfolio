@@ -7,18 +7,18 @@ function Navbar() {
 <nav class="navbar navbar-dark bg-dark sticky-top">
             
 
-
+            <div class="row">
                 
-         <h3> Corbin Garner</h3>
+                <div class="col-4"><h3> Corbin Garner</h3></div>
   
             
-                 <Link to="/about" className="navlink">About</Link>
-                    <Link to="/portfolio" className="navlink">Portfolio</Link>
-                     <Link to="/experience" className="navlink">Experience</Link>
-                   <Link to="/contact" className="navlink">Contact</Link> 
+                <div class="col-2"> <Link to="/about" className="navlink">About</Link></div>
+                <div class="col-2"><Link to="/portfolio" className="navlink">Portfolio</Link></div>
+                <div class="col-2"> <Link to="/experience" className="navlink">Experience</Link></div>
+                <div class="col-2">  <Link to="/contact" className="navlink">Contact</Link> </div>
 
                 
-
+            </div>
 </nav>
     )
 }

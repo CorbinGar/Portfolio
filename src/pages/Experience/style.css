@@ -12,34 +12,35 @@ body {
   p {
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 100%;
+    font-size: 120%;
   }
-
+  
   h1 {
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 150%;
+    font-size: 140%;
   }
   
   h2 {
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 200%;
+    font-size: 160%;
   }
   
   h3 {
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 250%;
+    font-size: 300%;
   }
   
   h4{
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 300%;
+    font-size: 340%;
   }
   
   code {
     font-family: 'Times New Roman', Times, serif;
    
   }
+  
