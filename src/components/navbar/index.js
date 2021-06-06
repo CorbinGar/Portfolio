@@ -4,7 +4,7 @@ import "./style.css";
 
 function Navbar() {
     return (
-<nav class="navbar navbar-dark bg-dark sticky-top">
+<nav class="navbar navbar-dark sticky-top">
             
 
             <div class="row">
@@ -13,10 +13,10 @@ function Navbar() {
   
             
                 <div class="col-12">
-                <Link to="/about" className="navlink">About</Link>
-                <Link to="/portfolio" className="navlink">Portfolio</Link>
-                <Link to="/experience" className="navlink">Experience</Link>
-                <Link to="/contact" className="navlink">Contact</Link>
+                 <Link to="/about" className="navlink"> About,   </Link> 
+                <Link to="/portfolio" className="navlink"> Portfolio,   </Link>
+                <Link to="/experience" className="navlink"> Experience,   </Link>
+                <Link to="/contact" className="navlink"> Contact   </Link>
                 </div>
 
                 
