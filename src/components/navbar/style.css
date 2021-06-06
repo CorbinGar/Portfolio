@@ -1,17 +1,17 @@
 .navbar {
-    background-color: rgb(40, 40, 40);
+    background-color: #111111;
 }
 
 .dropdownButton {
-    background-color: #232527;
-    color: whitesmoke;
+    background-color: #222222;
+    color: #333333;
 }
 .dropdownIcon {
     color: whitesmoke;
 }
 .navbar-brand {
     float: left;
-    background-color: #232527;
+    background-color: #222222;
     padding: 1vw;
     margin-right: 0px;
     border-radius: .25rem;

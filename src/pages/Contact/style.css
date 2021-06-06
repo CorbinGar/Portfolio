@@ -5,7 +5,7 @@
 .contactCard {
     display: flex;
     justify-content: space-evenly;
-    background-color: whitesmoke;
+    background-color: rgb(40, 40, 40);
 }
 .iconRow {
     justify-content: space-evenly;
@@ -14,14 +14,14 @@
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: rgb(40, 40, 40);
+    background-color:  rgb(40, 40, 40);
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
 }
 
 .fa-linkedin {
-    background-color: rgb(40, 40, 40);
+    background-color:  rgb(40, 40, 40);
     color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
@@ -29,20 +29,20 @@
 
 .githubContactLink {
     color:rgb(255, 150, 0);
-    background-color: rgb(40, 40, 40);
+    background-color:  rgb(40, 40, 40);
     width: 100px;
     height: 100px;
 }
 
 .fa-envelope-o {
-    background-color: #212529;
+    background-color:  rgb(40, 40, 40);
     color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
 }
 
 .fa-phone {
-    background-color: #212529;
+    background-color:  rgb(40, 40, 40);
     color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
