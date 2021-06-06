@@ -5,7 +5,7 @@
 .contactCard {
     display: flex;
     justify-content: space-evenly;
-    background-color: #FFFBFC;
+    background-color: whitesmoke;
 }
 .iconRow {
     justify-content: space-evenly;
@@ -14,14 +14,14 @@
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(30, 30, 30);
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
 }
 
 .fa-linkedin {
-    background-color:rgb(20, 20, 20);
+    background-color:rgb(30, 30, 30);
     color: rgb(255, 150, 0);
     width: 100px;
     height: 100px;
