@@ -7,9 +7,12 @@ function Experience() {
             <div className="card cardStyle">
                 <h2 className="card-header">Experience</h2>
                 <div className="card-body">
-                    <h1 className="card-title">Coding Boot Camp Certificate</h1>
-                    <h1 className="card-subtitle mb-2">University of Washington</h1>
-                    <p className="card-text">2021</p>
+
+                    <div class="row"> 
+                    <h1 className="card-title">University of Washington Coding Boot Camp Certificate 2021</h1>
+                    </div> 
+        
+               
                 </div>
                 <h1 className="card-body">Check out my <a href={resumePdf} className="resumeLink"
                     target="_blank" rel="noreferrer">resume</a> for more details.</h1>

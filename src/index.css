@@ -1,8 +1,6 @@
 body {
   margin: 0;
   font-family: 'Times New Roman', Times, serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   color: whitesmoke;
 }
 
@@ -14,18 +12,25 @@ body {
 h1 {
   color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
-  font-size: larger;
+  font-size: 300%;
 }
 
 h2 {
   color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
-  font-size: large;
+  font-size: 400%;
 }
+
+h3 {
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 500%;
+}
+
 p {
   color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
-  font-size: medium;
+  font-size: 200%;
 }
 
 code {
