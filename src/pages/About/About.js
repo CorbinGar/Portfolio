@@ -11,11 +11,11 @@ function About() {
                 <div className="card-body">
                     <img src={myImage} className="card-img-top about-me-img" alt="Corbin in Seattle"></img>
                     <h1 className="card-text about-me-text"></h1>
-                        <h1> Full stack web developer and educationally motivated, i love learning about new things. 
+                        <p> Full stack web developer and educationally motivated, i love learning about new things. 
                         i have Received certificate in full stack web development from the University of Washington Coding Boot Camp. 
                         Collaborative, industrious and a team player and i love a optimizing and problem solving. 
                           Personal interests in video gamins, Blacksmithing, and ocational creative writing. 
-                         Technologies I've used recently include:</h1>
+                         Technologies I've used recently include:</p>
                     <ul className="techList">
                         <li className="techListItem">HTML5</li>
                         <li className="techListItem">CSS3</li>
