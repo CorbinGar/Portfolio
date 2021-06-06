@@ -8,7 +8,7 @@ function Navbar() {
             <div className="container-fluid">
 
 
-
+                <div class="row">
                     <div class="col-4"> <button><h2 className="navbar-name">Corbin Garner</h2></button></div>
     
             
@@ -17,7 +17,7 @@ function Navbar() {
                     <div class="col-2">   <Link to="/experience" className="navlink">Experience</Link></div>
                     <div class="col2">  <Link to="/contact" className="navlink">Contact</Link> </div >
 
-              
+                </div >
 </div>
 </nav>
     )
