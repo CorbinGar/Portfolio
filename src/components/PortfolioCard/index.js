@@ -8,9 +8,9 @@ function PortfolioCard(props) {
     return (
         <div className="card projectCard">
             <div className="card-body">
-                <h5 className="card-title portfolioText">{props.project.title}</h5>
+                <h1 className="card-title portfolioText">{props.project.title}</h1>
                 <img src={props.project.img} className="card-img-top mb-2 portImg" alt={props.project.title}></img>
-                <h6 className="card-subtitle mb-2 portfolioText">{props.project.heading}</h6>
+                <h1 className="card-subtitle mb-2 portfolioText">{props.project.heading}</h1>
                 <p className="card-text portfolioText">{props.project.description}</p>
                 <p className="card-text portfolioText">Tech used: {props.project.tech}</p>
                 <a href={props.project.link} className="card-link" target="_blank" rel="noreferrer"><i

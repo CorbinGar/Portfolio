@@ -8,17 +8,16 @@ function Navbar() {
             <div className="container-fluid">
 
 
-                <div class="row">
 
-                    <div class="row-4"> <button><h1 className="navbar-name">Corbin Garner</h1></button></div>
+                    <div class="col-4"> <button><h2 className="navbar-name">Corbin Garner</h2></button></div>
     
             
-                    <div class="row-2"> <Link to="/about" className="navlink">About</Link></div>
-                    <div class="row-2"> <Link to="/portfolio" className="navlink">Portfolio</Link></div>
-                    <div class="row-2">   <Link to="/experience" className="navlink">Experience</Link></div>
-                    <div class="row-2">  <Link to="/contact" className="navlink">Contact</Link> </div >
+                    <div class="col-2"> <Link to="/about" className="navlink">About</Link></div>
+                    <div class="col-2"> <Link to="/portfolio" className="navlink">Portfolio</Link></div>
+                    <div class="col-2">   <Link to="/experience" className="navlink">Experience</Link></div>
+                    <div class="col2">  <Link to="/contact" className="navlink">Contact</Link> </div >
 
-                </div>
+              
 </div>
 </nav>
     )
