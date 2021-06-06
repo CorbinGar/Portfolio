@@ -14,14 +14,14 @@
 .iconCard {
     justify-content: center;
     text-align: center;
-    background-color: rgb(30, 30, 30);
+    background-color: rgb(20, 20, 20);
     max-width: 125px;
     max-height: 150px;
     padding: 0px;
 }
 
 .fa-linkedin {
-    background-color:rgb(30, 30, 30);
+    background-color:rgb(20, 20, 20);
     color: white;
     width: 100px;
     height: 100px;
@@ -42,7 +42,7 @@
 }
 
 .fa-phone {
-    background-color:#333333;;
+    background-color:rgb(30, 30, 30);
     color: white;
     width: 100px;
     height: 100px;
@@ -53,5 +53,5 @@
 }
 
 .resumeLink {
-    color: #3b3b3b;;
+    color: rgb(255, 150, 0);
 }

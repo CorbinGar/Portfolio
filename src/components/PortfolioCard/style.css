@@ -4,12 +4,12 @@
 }
 
 .projectCard {
-    background-color:#156064;
+    background-color:#e6e6e6;
     width: 25rem;
 }
 
 .portfolioText {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .portImg {
@@ -18,11 +18,11 @@
 }
 
 .fa-github {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .fa-link {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 @media screen and (max-width: 430px) {
